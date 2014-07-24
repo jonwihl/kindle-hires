@@ -4,8 +4,6 @@ Attempt to use hi-res images with Kindle, using Philip Greenspun's Travels With 
 To build:
 
 Run 
-```
-./build.sh
-```
+$ ./build.sh
 
 from the command line. 
