@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /scripts/
+Disallow: /scratch/
+Disallow: /dev/
+Disallow: /samantha/slide-show.html
+Disallow: /samantha/plaintext/
+Disallow: /samantha/ps/
+Disallow: /pix/
