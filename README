@@ -7,3 +7,10 @@ Run
 $ ./build.sh
 
 from the command line. 
+
+
+The book was pulled from http://philip.greenspun.com/samantha/ using
+
+  wget --mirror –w 2 –p -r –-convert-links –P . -I=samantha,images http://philip.greenspun.com/samantha/
+
+(use brew install wget as necessary)
