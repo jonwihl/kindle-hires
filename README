@@ -6,7 +6,9 @@ To build:
 Run 
 $ ./build.sh
 
-from the command line. 
+from the command line, and then
+  open TravelsWithSamantha.mobi 
+to launch the Kindle Mac app
 
 
 The book was pulled from http://philip.greenspun.com/samantha/ using
