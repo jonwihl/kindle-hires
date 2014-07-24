@@ -1,0 +1,11 @@
+Attempt to use hi-res images with Kindle, using Philip Greenspun's Travels With Samantha as an example.
+
+
+To build:
+
+Run 
+```
+./build.sh
+```
+
+from the command line. 
